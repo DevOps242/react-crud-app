@@ -1,0 +1,36 @@
+.Post {
+    margin: 10px 10px;
+    padding: 5px;
+    border: 1px solid gray;
+    width: auto;
+    height: 300px;
+   
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .Post button {
+    color: white;
+    background-color: rgb(128, 12, 12);
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 80%;
+  }
+
+  .Post .editButton{
+    /* background-color:#f0ad4e */
+    background-color:#ffc439
+  }
+
+  .Post .deleteButton{
+    /* background-color: #d9534f */
+    background-color: #c00;
+  }
+  
+  .Post button:hover {
+    cursor: pointer;
+    opacity: .8;
+  }

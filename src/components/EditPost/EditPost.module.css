@@ -1,0 +1,40 @@
+.EditPost {
+    margin: 0px;
+    padding: 20px;
+    height: 70%;
+    z-index: 100;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+  }
+  
+  .EditPost button {
+    color: white;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 50%;
+   
+  }
+
+  .EditPost .saveButton
+  {
+    /* background-color: #5cb85c; */
+    background-color: #008527;
+    display:inline-block;
+    width:60%;
+  }
+  
+  .EditPost button:hover {
+    cursor: pointer;
+    opacity: .8;
+  }
+  
+  .EditPost input {
+    width: 95%;
+    padding: 8px;
+    border: 2px solid #6E6C6C;
+  }
+  
+  

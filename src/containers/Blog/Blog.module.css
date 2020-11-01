@@ -1,0 +1,17 @@
+.Blog button {
+    color: white;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 40%;
+}
+
+.Blog button:hover{
+    cursor: pointer;
+    opacity: .8; 
+}
+
+.Blog .addButton{
+    background-color: #0275d8;
+    padding:15px;
+}

@@ -1,0 +1,18 @@
+
+
+
+.CustomSelect .saveButton
+  {
+    /* background-color: #5cb85c */
+    background-color: #008527;
+    display:inline-block;
+  }
+
+.CustomSelect .cancelButton 
+  {
+    /* background-color: #d9534f; */
+    background-color: #c00;
+    display:inline-block;
+    
+  }
+
